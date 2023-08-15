@@ -1,5 +1,8 @@
 _repo: Storia-degli-Italiani-vol-12-di-15_71290
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71290-h/images/cover.jpg
 creator:
   author:
     agent_name: Cantù, Cesare
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Cesare_Cantù
     - https://it.wikipedia.org/wiki/Cesare_Cant%C3%B9
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71290#Storia-degli-Italiani-vol-12-di-15
 gutenberg_issued: '2023-07-28'
 identifiers:
   gutenberg: '71290'
